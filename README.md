@@ -1,4 +1,5 @@
 # Tok Pla Kub Pee Mai Nong
+https://drive.google.com/drive/folders/1XKu2Ehay8vNOnajDydUoqjPzqFkqxFO9?usp=sharing
 # รายละเอียดเกมยาว ๆ
 เกมปกตลา
 # วิธีการเล่น
