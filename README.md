@@ -2,6 +2,8 @@
 https://drive.google.com/drive/folders/1XKu2Ehay8vNOnajDydUoqjPzqFkqxFO9?usp=sharing
 # รายละเอียดเกมยาว ๆ
 เกมปกตลา
+![game](https://github.com/user-attachments/assets/5dd215a2-620c-4942-9641-4c783e95e99f)
+
 # วิธีการเล่น
 บังคับให้กรอบสีเขียวอยู่หลังตัวปลาให้ได้
 1.กด Spacebar เพื่อให้กรอบสีเขียวขยับขึ้น
